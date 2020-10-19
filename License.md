@@ -10,7 +10,7 @@ sdafsfd
 
 d
 
-f Kopia 2
+f Kopia 12
 
 sadf
 
@@ -21,3 +21,5 @@ asdaf
 f
 
 dsa
+
+Inne zmiany na końcu
