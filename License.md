@@ -11,3 +11,5 @@ sdafsfd
 f
 
 dsa
+
+Inne zmiany na końcu
